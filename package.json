@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^16.6.1",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.27.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  },
+  "name": "test-agent",
+  "version": "1.0.0",
+  "description": "This project has a minimal setup of Hardhat 3 Beta, without any plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

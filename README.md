@@ -13,7 +13,7 @@ While this contract is not an NFT implementation, it demonstrates the same desig
 
 ## Deployment
 - Network: Testnet
-- Explorer: <paste testnet explorer link here>
+- Explorer: https://etherscan.io/address/0x1f6e834b22C8913A4AbC396264BC6082817a4DFf
 
 ## Tech Stack
 - Solidity
